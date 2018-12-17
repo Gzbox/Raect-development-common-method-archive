@@ -1,6 +1,6 @@
 # XMLHttpRequest-upload-progress
 form-data 上传图片等资源
-# JS-Map-URL-API-TEST
+# Js-map-url-api-test
  原生js打开地图App，开始导航
   /**
    * @params  函数参数说明 
